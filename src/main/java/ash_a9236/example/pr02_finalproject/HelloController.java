@@ -1,4 +1,4 @@
-package ash_a9236.example.pr02_finalproject1;
+package ash_a9236.example.pr02_finalproject;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
