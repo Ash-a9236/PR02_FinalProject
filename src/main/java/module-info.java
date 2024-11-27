@@ -1,4 +1,4 @@
-module ash_a9236.example.pr02_finalproject1 {
+module ash_a9236.example.pr02_finalproject {
     requires javafx.controls;
     requires javafx.fxml;
     requires javafx.web;
@@ -11,6 +11,6 @@ module ash_a9236.example.pr02_finalproject1 {
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
 
-    opens ash_a9236.example.pr02_finalproject1 to javafx.fxml;
-    exports ash_a9236.example.pr02_finalproject1;
+    opens ash_a9236.example.pr02_finalproject to javafx.fxml;
+    exports ash_a9236.example.pr02_finalproject;
 }
