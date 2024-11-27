@@ -14,3 +14,4 @@ module ash_a9236.example.pr02_finalproject {
     opens ash_a9236.example.pr02_finalproject to javafx.fxml;
     exports ash_a9236.example.pr02_finalproject;
 }
+
